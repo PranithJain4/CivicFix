@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# XAMPP / Local Config
+php_errors.log
+.vscode/
+
+# Project Specific
+uploads/*
+!uploads/.gitkeep
+backend/migrate_db.php.bak
